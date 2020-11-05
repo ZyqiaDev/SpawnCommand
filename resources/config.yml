@@ -1,0 +1,15 @@
+---
+# If you want a spawn message enabled this
+EnableSpawnMessage: "Disabled"
+# The message when the teleport to spawn
+SpawnMessage: "§bSpawn §8» §gYou have been teleported to spawn"
+# If you want the player to teleport to the servers spawn when they join
+SpawnOnJoin: "Enabled"
+# {sender} = the player that send them to spawn
+SpawnOtherMessagePlayer: "§bSpawn §8» §b{sender} §ghas teleported you to spawn"
+# {player} = the player teleported to spawn
+SpawnOtherMessageSender: "§bSpawn §8» §gYou have teleported §b{player} §gto spawn"
+# If the player isnt online thi9s will be the message sent
+# {player} = the player trying to be teleported
+PlayerNotFound: "§bSpawn §8» §b{player} §cis not online"
+...
